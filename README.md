@@ -1,4 +1,4 @@
-# Artikate ML Engineer Task
+# RAG-based Technical Knowledge Assistant 
 
 **End-to-end applied ML engineering across three production-grade problem domains:**
 LLM failure diagnosis, retrieval-augmented generation, and text classification.
